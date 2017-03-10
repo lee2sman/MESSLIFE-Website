@@ -38,3 +38,14 @@ p {
   width: 30%;
   float: left;
 }
+
+#wordback {
+  background-color: white;
+  font-color: blue;
+  opacity: 0.4;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: x-large;
+  width: 95%;
+  float: left;
+}
