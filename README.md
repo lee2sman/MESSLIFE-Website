@@ -16,3 +16,7 @@ Messlife supports teamwork, co-creation, and the empowerment of those who may no
 Messlife supports jamming, the quest for utopia and the sublime, and experimentation that may result in failure.
 
 Messlife exists for the artists, but also for the public. Messlife supports presenting artworks online, IRL, in print, and any other way.
+
+## How To Participate
+
+Messlife (and the discussion around it, called Messcafe), is currently being built March 2017 to be launched and tested in April 2017. The online virtual artspace is built in Unity/C# and output as WebGL. You are welcome to download, examine and contribute to its creation in this repo [here](https://github.com/lee2sman/messlife). If you are not a coder but have ideas or suggestions, join us in this chat [here](justanothersystem.slack.com).
