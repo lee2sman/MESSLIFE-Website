@@ -1,8 +1,3 @@
-# MESSLIFE
-a virtual DIY warehouse for art, music, collaboration. A Temporary Autonomous Zone of the sky
-
-## Manifesto
-
 Messlife is a virtual DIY artspace in the tradition of warehouse art spaces and alternative venues. Mess.cafe is a free (as in radical) software project, built by many people, for purposes of online and IRL hanging, collab'ing and making.
 
 Messlife takes inspiration from the actions and tools of the free software movement, the history of musical collaboration and jamming, and the world of DIY art collectives and warehouse spaces. It encourages a much wider community of artists to take on the principles and systems of these alternative communities.
