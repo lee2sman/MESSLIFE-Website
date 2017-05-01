@@ -1,6 +1,8 @@
 # MESSLIFE
 a virtual DIY warehouse for art, music, collaboration. A Temporary Autonomous Zone of the sky
 
+**MESSLIFE** launches online and IRL May 18.
+
 ## Manifesto
 
 Messlife is a virtual DIY artspace in the tradition of warehouse art spaces and alternative venues. Mess.cafe is a free (as in radical) software project, built by many people, for purposes of online and IRL hanging, collab'ing and making.
@@ -19,4 +21,4 @@ Messlife exists for the artists, but also for the public. Messlife supports pres
 
 ## How To Participate
 
-Messlife (and the discussion around it, called Messcafe), is currently being built March 2017 to be launched and tested in April 2017. The online virtual artspace is built in Unity/C# and output as WebGL. You are welcome to download, examine and contribute to its creation in this repo [here](https://github.com/lee2sman/messlife). If you are not a coder but have ideas or suggestions, join us in this chat [here](justanothersystem.slack.com).
+Messlife, is currently being built March-April 2017 to be launched and tested in May 2017 as part of the exhibit Delete Me held at the New Wight Gallery at UCLA Broad Art Center, May 18 - June 1. The online virtual artspace is built in Unity/C# and output as WebGL, with additional PHP and Javascript. You are welcome to download, examine and contribute to its creation in this repo [here](https://github.com/lee2sman/messlife). If you are not a coder but have ideas or suggestions, please add a comment [here](https://github.com/lee2sman/messlife/issues) by creating a *New Issue* or get in touch [here](twitter.com/2sman2sman).
