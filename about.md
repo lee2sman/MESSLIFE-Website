@@ -2,7 +2,7 @@
 
 # About
 
-Messlife is a virtual DIY artspace in the tradition of warehouse art spaces and alternative venues. Messlife is a free (as in radical) software project, built by many people, for upruoses of online and IRL handing, collab'ing and aming.
+Messlife is a virtual DIY artspace in the tradition of warehouse art spaces and alternative venues. Messlife is a free (as in radical) software project, built by many people, for purposes of online and IRL handing, collab'ing and aming.
 
 Messlife is a project by Lee Tusman in collaboration with many people.  
 Messlife grows out of conversations with Brandon Avery Joyce of The South Philly Athenaeum and PIFAS.  
