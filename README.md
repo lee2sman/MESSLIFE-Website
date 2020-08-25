@@ -23,9 +23,7 @@ Messlife supports jamming, the quest for utopia and the sublime, and experimenta
 
 Messlife exists for the artists, but also for the public. Messlife supports presenting artworks online, IRL, in print, and any other way.
 
-## How To Participate
-
-Presented:
+## Presented:
 
 - [Game Engines Beyond Games](http://gameartengines.com). Abertay University and Parsons School of Design, The New School.
 
