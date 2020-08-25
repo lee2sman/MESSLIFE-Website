@@ -1,7 +1,11 @@
 # MESSLIFE
 a virtual DIY warehouse for art, music, collaboration. A Temporary Autonomous Zone of the sky
 
-**MESSLIFE** launches online and IRL May 18.
+**MESSLIFE** launched in 2017. It gets re-activated for special events and ongoing projects.
+
+### Attention: Code may be out of date
+
+We switched to an alternate code management system built into Unity. This is old version of the code and needs to be updated.
 
 ## Manifesto
 
@@ -21,4 +25,19 @@ Messlife exists for the artists, but also for the public. Messlife supports pres
 
 ## How To Participate
 
-Messlife, is currently being built March-April 2017 to be launched and tested in May 2017 as part of the exhibit Delete Me held at the New Wight Gallery at UCLA Broad Art Center, May 18 - June 1. The online virtual artspace is built in Unity/C# and output as WebGL, with additional PHP and Javascript. You are welcome to download, examine and contribute to its creation in this repo [here](https://github.com/lee2sman/messlife). If you are not a coder but have ideas or suggestions, please add a comment [here](https://github.com/lee2sman/messlife/issues) by creating a *New Issue* or get in touch [here](http://twitter.com/2sman2sman).
+Presented:
+
+- [Game Engines Beyond Games](http://gameartengines.com). Abertay University and Parsons School of Design, The New School.
+
+- [ReFest 2020](https://www.culturehub.org/refest-2020). CultureHub NYC and CultureHub LA - 
+
+- [IndieCade](http://evewine101.com/2017/08/07/l-a-weeklys-artopia-new-artists-announced/), part of LA Weekly's Artopia, 2017
+
+- [Interview](http://games.ucla.edu/blog/interview-lee-tusman) with Sofia Staab for UCLA Game Lab
+
+- [Delete Me](http://dma.ucla.edu/exhibitions/mfa/deleteme/), New Wight Gallery, UCLA, 2017
+
+#### Background
+
+Messlife was launched May 2017 as part of the exhibit Delete Me held at the New Wight Gallery at UCLA Broad Art Center, May 18 - June 1. The online virtual artspace is built in Unity/C# and output as WebGL, with additional PHP and Javascript. You are welcome to download, examine and contribute to its creation in this repo [here](https://github.com/lee2sman/messlife). If you are not a coder but have ideas or suggestions, please add a comment [here](https://github.com/lee2sman/messlife/issues) by creating a *New Issue* or get in touch [here](http://twitter.com/2sman2sman).
+
